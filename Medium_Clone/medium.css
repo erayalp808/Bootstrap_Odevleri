@@ -1,0 +1,19 @@
+.bg-yellow {
+    background-color: #FFC017
+}
+
+.border-bottom-dark {
+    border-bottom: 1px solid rgba(41, 41, 41, 1)
+}
+
+.font-libre {
+    font-family: 'Libre Baskerville', serif;
+}
+
+.font-ariel {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.trend-number {
+    color: rgba(199, 197, 197, 0.529);
+}
