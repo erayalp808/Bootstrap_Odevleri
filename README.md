@@ -20,8 +20,14 @@ Bu repo kodluyoruz frontend eğitimi kapsamında yaptığımız ödevleri bulund
 # Ödev 2
 ---
 ![Ödev2 img](https://user-images.githubusercontent.com/110730207/219367388-68d13311-6517-469a-b5eb-6d0cf0800337.png)
+---
+# Ödev 3
+### image 1
+![Ödev3 img1](https://user-images.githubusercontent.com/110730207/219437062-1817e0b1-9d72-4da9-ae87-7e30a8cfbc7a.png)
 
-
+### image 2
+![Ödev3 img2](https://user-images.githubusercontent.com/110730207/219437401-8797299a-e91f-46cf-bfad-21a1e635dbf6.png)
+---
 # Installation
 ---
 Öncelikle projeyi clonelayın. (https://github.com/erayalp808/CSS-Odevleri)
