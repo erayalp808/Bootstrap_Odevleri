@@ -10,7 +10,7 @@ Bu repo kodluyoruz frontend eğitimi kapsamında yaptığımız ödevleri bulund
 ![Medium clone img1](https://user-images.githubusercontent.com/110730207/218995411-14f92510-6df5-446b-a607-b2549591e3af.png)
  
 ### image 2
-![medium clone img2](https://user-images.githubusercontent.com/110730207/218995648-5f132e30-0c04-4752-b537-347a9924635d.png)
+![medium clone img2](https://user-images.githubusercontent.com/110730207/219366988-04245b4f-7c9d-44f0-9e9e-6c2c7e66b7d5.png)
 ---
 # Ödev 1
 ---
